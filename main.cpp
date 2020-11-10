@@ -8,7 +8,6 @@ int main(int argc, char *argv[]) {
 
     int getopt;
 
-    // const char *short_options = "hs::f:vl:";
     const char *short_options = "hvo::l:";
 
     const struct option long_options[] = {
